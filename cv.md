@@ -26,4 +26,4 @@
 7. Education
   * Bachelor of Engineering in Informatics - Georgian American University, 2018-present
   * Front-end Course - Geolab, 2020
-
+8. English level B2 - school and university
